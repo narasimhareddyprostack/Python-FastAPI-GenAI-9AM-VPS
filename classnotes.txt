@@ -1,0 +1,29 @@
+Identifier?
+name in py program - identifier
+variable name,function name, class name,object name,
+
+Identifier Rules
+____________________
+1.Identifier should contains only: a-z,A-Z,0-9,_
+2.Identifer should not start with digits
+3.Identifer should not contains any specail char/symbols
+4.Should not use keyword/RW as identifiers
+5.case sensitive.
+
+
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'complex'>
+<class 'bool'>
+***************
+<class 'list'>
+<class 'tuple'>
+<class 'set'>
+<class 'dict'>
+***************
+<class 'bytes'>
+<class 'bytearray'>
+<class 'frozenset'>
+<class 'range'>
+<class 'NoneType'>
