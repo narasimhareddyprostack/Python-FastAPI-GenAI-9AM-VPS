@@ -1,0 +1,9 @@
+emp={
+    'eid':101,
+    'ename':'Rahul',
+    'esal':45000.45,
+    'loc':'Bangalore',
+    'gender':'Male',
+    'avail':True
+}
+emp.pop()

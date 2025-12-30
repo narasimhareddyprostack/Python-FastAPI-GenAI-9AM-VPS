@@ -1,0 +1,9 @@
+emp={
+    'eid':101,
+    'eid':102,
+    'eid':103,
+    'eid':104,
+    'eid':105,
+    'ename':"Rahul"
+}
+print(emp)
