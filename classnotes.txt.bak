@@ -9,3 +9,30 @@ ____________________
 3.Identifer should not contains any specail char/symbols
 4.Should not use keyword/RW as identifiers
 5.case sensitive.
+
+
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'complex'>
+<class 'bool'>
+***************
+<class 'list'>
+<class 'tuple'>
+<class 'set'>
+<class 'dict'>
+***************
+<class 'bytes'>
+<class 'bytearray'>
+<class 'frozenset'>
+<class 'range'>
+<class 'NoneType'>
+==================
+Usage: fetch/get all products
+Rest API URL:https://dummyjson.com/products
+Method Type: GET
+Required Fields: None
+Access Type: Public
+
+How to invoke Rest API? requests moduls
+How to test RestAPI? Rest API Testing tools: Post Man

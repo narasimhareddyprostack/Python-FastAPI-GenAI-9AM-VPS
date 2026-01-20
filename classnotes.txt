@@ -27,3 +27,12 @@ ____________________
 <class 'frozenset'>
 <class 'range'>
 <class 'NoneType'>
+==================
+Usage: fetch/get all products
+Rest API URL:https://dummyjson.com/products
+Method Type: GET
+Required Fields: None
+Access Type: Public
+
+How to invoke Rest API? requests moduls
+How to test RestAPI? Rest API Testing tools: Post MAN
