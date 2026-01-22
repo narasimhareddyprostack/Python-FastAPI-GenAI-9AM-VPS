@@ -1,0 +1,4 @@
+Write a python script to 
+read emp.json file and write all male employees 
+into new json file ie male_employees.json file.
+
